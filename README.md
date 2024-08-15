@@ -1,5 +1,5 @@
 # ei-astronaut-schedule-manager
-## Hi there 👋 It's me Harshini
+
 
 
 ## PROJECT NAME
